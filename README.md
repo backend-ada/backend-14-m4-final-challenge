@@ -10,3 +10,5 @@ Además, tiene que cumplir con los siguientes puntos:
 - Consumir datos de al menos una API pública.
 - Uso de funciones asincrónicas y manejo de errores: async/await y/o .then().
 - Acciones de lectura y escritura de datos asíncronas sobre un archivo JSON.
+
+Una vez terminado el proyecto, súbanlo a su cuenta personal de GitHub.
